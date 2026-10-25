@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Órbita Perdida",
+    "slug": "orbita-perdida",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#071125",
+    "ios": { "supportsTablet": true },
+    "android": { "edgeToEdgeEnabled": true }
+  }
+}
